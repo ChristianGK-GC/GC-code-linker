@@ -1,12 +1,16 @@
 # GC Code Linker
 
+![Userscript](https://img.shields.io/badge/Userscript-JavaScript-yellow) ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Compatible-green) ![License](https://img.shields.io/badge/License-GPL%20v3-blue)
+
 GC Code Linker is a userscript that turns geocache codes in web page text into links to [coord.info](https://coord.info/).
 
 ## Installation
 
 1. Install a userscript manager such as [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Open [gc-code-linker.user.js](gc-code-linker.user.js) on GitHub and select **Raw**.
+2. [Install GC Code Linker](https://github.com/ChristianGK-GC/GC-code-linker/raw/refs/heads/main/gc-code-linker.user.js), or open [gc-code-linker.user.js](gc-code-linker.user.js) on GitHub and select **Raw**.
 3. Confirm the installation in your userscript manager.
+
+Your userscript manager can check for updates automatically when update checks are enabled.
 
 ## How it works
 
