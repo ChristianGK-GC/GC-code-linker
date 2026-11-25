@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         GC Code Linker
-// @namespace    https://github.com/ChristianGK/GC-code-linker
+// @namespace    https://github.com/ChristianGK-GC/GC-code-linker
 // @author       ChristianGK
-// @version      1.0
+// @version      1.1
 // @description  Links GC codes on web pages to coord.info.
+// @updateURL    https://github.com/ChristianGK-GC/GC-code-linker/raw/refs/heads/main/gc-code-linker.user.js
+// @downloadURL  https://github.com/ChristianGK-GC/GC-code-linker/raw/refs/heads/main/gc-code-linker.user.js
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
