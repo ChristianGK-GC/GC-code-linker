@@ -20,3 +20,9 @@ Your userscript manager can check for updates automatically when update checks a
 - Leaves existing links, form controls, and editable areas unchanged.
 
 The script runs on HTTP and HTTPS pages. Browser restrictions may prevent userscripts from running on certain pages.
+
+## Test
+
+- GC4
+- GC12345
+- GCA0123
