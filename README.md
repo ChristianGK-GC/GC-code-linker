@@ -23,6 +23,6 @@ The script runs on HTTP and HTTPS pages. Browser restrictions may prevent usersc
 
 ## Test
 
-- GC4
-- GC12345
-- GCA0123
+After installing the userscript, reload this page. Each code below should become a link:
+
+For example, GC4 is a short code, GC12345 contains only digits after the prefix, and GCA0123 combines letters and digits.
