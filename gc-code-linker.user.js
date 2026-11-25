@@ -2,7 +2,7 @@
 // @name         GC Code Linker
 // @namespace    https://github.com/ChristianGK-GC/GC-code-linker
 // @author       ChristianGK
-// @version      1.1
+// @version      1.4
 // @description  Links GC codes on web pages to coord.info.
 // @updateURL    https://github.com/ChristianGK-GC/GC-code-linker/raw/refs/heads/main/gc-code-linker.user.js
 // @downloadURL  https://github.com/ChristianGK-GC/GC-code-linker/raw/refs/heads/main/gc-code-linker.user.js
@@ -41,6 +41,11 @@
                 link.target = '_blank';
                 link.rel = 'noopener noreferrer';
                 link.textContent = match[0];
+                link.style.backgroundColor = '#b9e1a6';
+                link.style.color = '#00693d';
+                link.style.borderRadius = '2px';
+                link.style.padding = '0 2px';
+                link.style.textDecoration = 'underline';
                 fragment.append(link);
                 offset = match.index + match[0].length;
             }
